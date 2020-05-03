@@ -60,7 +60,7 @@ public class map_act extends AppCompatActivity {
                     mapView.getCamera().lookAt(
                             new GeoCoordinates(22.5726, 88.3639), distanceInMeters);
                 } else {
-                    Log.d(TAG, "Loading map failed: mapError: " + mapError.name());
+                    Log.d(TAG, "Loading map failed: mapError Now: " + mapError.name());
                 }
             }
         });
