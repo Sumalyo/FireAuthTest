@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419473440535",
+    "firebase_url": "https://herestuff-7f233.firebaseio.com",
+    "project_id": "herestuff-7f233",
+    "storage_bucket": "herestuff-7f233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419473440535:android:3583cb3576e4a2a0538152",
+        "android_client_info": {
+          "package_name": "com.datta.fireauthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419473440535-gn2p6753u462cav9nr22jhmmraj8b631.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMoGQMu0Yw7uprjI2UWhonm7Xt_gcUN2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419473440535-gn2p6753u462cav9nr22jhmmraj8b631.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
